@@ -3,10 +3,6 @@
 <h3 align="center">A hard working full-stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 
-- 🔭 I’m currently working on [Reut](https://github.com/MosheTDD/Reut)
-
-- 🌱 I’m currently learning **Flutter & Firebase**
-
 - 💬 Ask me about **Dart, Flutter, Java, Firebase, C#**
 
 - 📫 How to reach me **moshehov241@gmail.com**
